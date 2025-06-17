@@ -134,14 +134,14 @@
         "infoParagraph"         : "The positive feedback we receive reflects the quality of our tour. Guests consistently appreciate our trips and personalised service."
     },
     "sameCards"                 : {
-        "kualaLumpur"           : "Kuala Lumpur",
-        "paris"                 : "Paris",
-        "rome"                  : "Rome",
+        "bali"                  : "Bali",
+        "maldiv"                : "Maldives",
+        "vietnam"               : "Vietnam",
         "date"                  : "22 June 2024",
         "guests"                : "Guests",
-        "kualaDescription"      : "Brief information about Kuala Lumpur.",
-        "parisDescription"      : "Brief information about Paris.",
-        "romeDescription"       : "Brief information about Rome.",
+        "baliDescription"       : "A short text about this city is posted.",
+        "maldivDescription"     : "Brief information about Maldiv.",
+        "vietnamDescription"    : "Brief information about Vietnam.",
         "bookButton"            : "Book now"
     },
     "teamCards"                 : {

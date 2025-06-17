@@ -4,9 +4,9 @@ import styles from './sameCards.module.css';
 import { FaCalendarAlt, FaUser } from 'react-icons/fa';
 import { useTranslation } from 'react-i18next';
 
-import image1 from '../../assets/kuala-tower.jpg';
-import image2 from '../../assets/paris.jpg';
-import image3 from '../../assets/colombia.avif';
+import image1 from '../../assets/bali.jpg';
+import image2 from '../../assets/maldiva.jpeg';
+import image3 from '../../assets/vietnam.avif';
 
 const Cards = ({ tour }) => {
 
@@ -46,9 +46,9 @@ const SameCards = () => {
   const [ t ] = useTranslation();
 
   const tours = [
-    { image: image1, title: t("sameCards.kualaLumpur"), description: t("sameCards.kualaDescription"), price: '$1200' },
-    { image: image2, title: t("sameCards.paris"), description: t("sameCards.parisDescription"), price: '$1500' },
-    { image: image3, title: t("sameCards.rome"), description: t("sameCards.romeDescription"), price: '$1400' },
+    { image: image1, title: t("sameCards.bali"), description: t("sameCards.baliDescription"), price: '$1200' },
+    { image: image2, title: t("sameCards.maldiv"), description: t("sameCards.maldivDescription"), price: '$757' },
+    { image: image3, title: t("sameCards.vietnam"), description: t("sameCards.vietnamDescription"), price: '$610' },
   ];
 
   return (

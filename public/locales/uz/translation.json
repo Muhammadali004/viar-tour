@@ -134,14 +134,14 @@
         "infoParagraph"         : "Biz olgan ijobiy fikrlar sayohatlarimiz va shaxsiy xizmatlarimizning sifatini aks ettiradi."
     },
     "sameCards"                 : {
-        "kualaLumpur"           : "Kuala Lumpur",
-        "paris"                 : "Parij",
-        "rome"                  : "Rim",
+        "bali"                  : "Bali",
+        "maldiv"                : "Maldiv Orollari",
+        "vietnam"               : "Vyetnam",
         "date"                  : "22 Iyun 2024",
         "guests"                : "Mehmonlar",
-        "kualaDescription"      : "Kuala Lumpur haqida qisqacha ma'lumot.",
-        "parisDescription"      : "Parij haqida qisqacha ma'lumot.",
-        "romeDescription"       : "Rim haqida qisqacha ma'lumot.",
+        "baliDescription"       : "Bali haqida qisqacha ma'lumot.",
+        "maldivDescription"     : "Maldiv Orollari haqida qisqacha ma'lumot.",
+        "vietnamDescription"    : "Vyetnam haqida qisqacha ma'lumot.",
         "bookButton"            : "Band qilish"
     },
     "teamCards"                 : {
