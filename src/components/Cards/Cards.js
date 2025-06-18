@@ -21,10 +21,13 @@ import image14 from '../../assets/antalya.jpg';
 const Another = ({ tour }) => {
 
     const [ t ] = useTranslation();
-
+    const phoneNumber = "+998880100011"
     const navigate = useNavigate(); 
 
     const handleBrowseAllClick = () => {
+      const telLink = document.createElement('a');
+      telLink.href = `tel:${phoneNumber}`;
+      telLink.click();
       window.scrollTo(0,0);
       navigate('/contact'); 
     };

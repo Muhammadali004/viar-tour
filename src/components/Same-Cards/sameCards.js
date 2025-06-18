@@ -10,11 +10,14 @@ import image3 from '../../assets/vietnam.avif';
 
 const Cards = ({ tour }) => {
 
+    const phoneNumber = "+998880100011"
     const [ t ] = useTranslation();
-
     const navigate = useNavigate();
  
-    const handleBrowseAllClick = () => { 
+    const handleBrowseAllClick = () => {
+      const telLink = document.createElement('a');
+      telLink.href = `tel:${phoneNumber}`;
+      telLink.click();
       window.scrollTo(0,0);
       navigate('/contact'); 
     };
