@@ -56,20 +56,20 @@ const Cards = () => {
   const [ t ] = useTranslation();
 
   const tours = [ 
-    { image: image1,  title: t("cards.maldiv"), description: t("cards.maldivDescription"), price: '$757' },
-    { image: image2,  title: t("cards.vietnam"), description: t("cards.vietnamDescription"), price: '$610' },
-    { image: image3,  title: t("cards.egypt"), description: t("cards.egyptDescription"), price: '$450' },
-    { image: image4,  title: t("cards.bali"), description: t("cards.baliDescription"), price: '$1200' },
-    { image: image5,  title: t("cards.jordan"), description: t("cards.jordanDescription"), price: '$600' },
-    { image: image6,  title: t("cards.dubai"), description: t("cards.dubaiDescription"), price: '$270' },
-    { image: image7,  title: t("cards.shrilanka"), description: t("cards.shrilankaDescription"), price: '$850' },
-    { image: image8,  title: t("cards.azerbaijan"), description: t("cards.azerbaijanDescription"), price: '$566' },
-    { image: image9,  title: t("cards.georgia"), description: t("cards.georgiaDescription"), price: '$533' },
-    { image: image10, title: t("cards.malaysia"), description: t("cards.malaysiaDescri  ption"), price: "$1130"},
-    { image: image11, title: t("cards.zanzibar"), description: t("cards.zanzibarDescription"), price: "$1485"},
-    { image: image12, title: t("cards.montenegro"), description: t("cards.montenegroDescription"), price: "$750"},
-    { image: image13, title: t("cards.turkey"), description: t("cards.turkeyDescription"), price: "$650"},
-    { image: image14, title: t("cards.antalya"), description: t("cards.antalyaDescription"), price: "$1033"}
+    { image: image1,  title: t("cards.maldiv"), description: t("cards.Description"), price: '$757' },
+    { image: image2,  title: t("cards.vietnam"), description: t("cards.Description"), price: '$610' },
+    { image: image3,  title: t("cards.egypt"), description: t("cards.Description"), price: '$450' },
+    { image: image4,  title: t("cards.bali"), description: t("cards.Description"), price: '$1200' },
+    { image: image5,  title: t("cards.jordan"), description: t("cards.Description"), price: '$600' },
+    { image: image6,  title: t("cards.dubai"), description: t("cards.Description"), price: '$270' },
+    { image: image7,  title: t("cards.shrilanka"), description: t("cards.Description"), price: '$850' },
+    { image: image8,  title: t("cards.azerbaijan"), description: t("cards.Description"), price: '$566' },
+    { image: image9,  title: t("cards.georgia"), description: t("cards.Description"), price: '$533' },
+    { image: image10, title: t("cards.malaysia"), description: t("cards.Description"), price: "$1130"},
+    { image: image11, title: t("cards.zanzibar"), description: t("cards.Description"), price: "$1485"},
+    { image: image12, title: t("cards.montenegro"), description: t("cards.Description"), price: "$750"},
+    { image: image13, title: t("cards.turkey"), description: t("cards.Description"), price: "$650"},
+    { image: image14, title: t("cards.antalya"), description: t("cards.Description"), price: "$1033"}
   ];
 
   return (

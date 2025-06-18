@@ -20,20 +20,7 @@
         "montenegro"            : "Chernogoriya",
         "turkey"                : "Turkiya",
         "antalya"               : "Antaliya",
-        "baliDescription"       : "Bali haqida qisqacha ma'lumot.",
-        "maldivDescription"     : "Maldiv Orollari haqida qisqacha ma'lumot.",
-        "vietnamDescription"    : "Vyetnam haqida qisqacha ma'lumot.",
-        "egyptDescription"      : "Misr haqida qisqacha ma'lumot.",
-        "jordanDescription"     : "Jordaniya haqida qisqacha ma'lumot.",
-        "dubaiDescription"      : "Dubay haqida qisqacha ma'lumot.",
-        "shrilankaDescription"  : "Shri Lanka haqida qisqacha ma'lumot.",
-        "azerbaijanDescription" : "Azerbayjon haqida qisqacha ma'lumot.",
-        "georgiaDescription"    : "Gruziya haqida qisqacha ma'lumot.",
-        "malaysiaDescription"   : "Malaiziya haqida qisqacha ma'lumot.",
-        "zanzibarDescription"   : "Zanzibar haqida qisqacha ma'lumot.",
-        "montenegroDescription" : "Chernogoriya haqida qisqacha ma'lumot.",
-        "turkeyDescription"     : "Turkiya haqida qisqacha ma'lumot.",
-        "antalyaDescription"    : "Antaliya haqida qisqacha ma'lumot."
+        "Description"           : "Narxlar e'lon qo'yilgan san'aga tegishli. Aniq narxni bilish uchun operator bilan boglaning."
     },
     "chooseUs"                  : {
         "infoSubTitle"          : "Nima uchun biz?",
@@ -137,11 +124,9 @@
         "bali"                  : "Bali",
         "maldiv"                : "Maldiv Orollari",
         "vietnam"               : "Vyetnam",
-        "date"                  : "22 Iyun 2024",
+        "date"                  : "9 Iyun 2025",
         "guests"                : "Mehmonlar",
-        "baliDescription"       : "Bali haqida qisqacha ma'lumot.",
-        "maldivDescription"     : "Maldiv Orollari haqida qisqacha ma'lumot.",
-        "vietnamDescription"    : "Vyetnam haqida qisqacha ma'lumot.",
+        "Description"           : "Narxlar e'lon qo'yilgan san'aga tegishli. Aniq narxni bilish uchun operator bilan boglaning.",
         "bookButton"            : "Band qilish"
     },
     "teamCards"                 : {

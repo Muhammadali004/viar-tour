@@ -46,9 +46,9 @@ const SameCards = () => {
   const [ t ] = useTranslation();
 
   const tours = [
-    { image: image1, title: t("sameCards.bali"), description: t("sameCards.baliDescription"), price: '$1200' },
-    { image: image2, title: t("sameCards.maldiv"), description: t("sameCards.maldivDescription"), price: '$757' },
-    { image: image3, title: t("sameCards.vietnam"), description: t("sameCards.vietnamDescription"), price: '$610' },
+    { image: image1, title: t("sameCards.bali"), description: t("sameCards.Description"), price: '$1200' },
+    { image: image2, title: t("sameCards.maldiv"), description: t("sameCards.Description"), price: '$757' },
+    { image: image3, title: t("sameCards.vietnam"), description: t("sameCards.Description"), price: '$610' },
   ];
 
   return (

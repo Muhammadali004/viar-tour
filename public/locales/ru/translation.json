@@ -20,20 +20,7 @@
         "montenegro"            : "Черногория",
         "turkey"                : "Турция",
         "antalya"               : "Анталия",
-        "baliDescription"       : "Краткая информация о Бали.",
-        "maldivDescription"     : "Краткая информация о Мальдивах.",
-        "vietnamDescription"    : "Краткая информация о Вьетнаме.",
-        "egyptDescription"      : "Краткая информация о Египте.",
-        "jordanDescription"     : "Краткая информация о Иордании.",
-        "dubaiDescription"      : "Краткая информация о Дубае.",
-        "shrilankaDescription"  : "Краткая информация о Шри Ланке.",
-        "azerbaijanDescription" : "Краткая информация о Азербайджане.",
-        "georgiaDescription"    : "Краткая информация о Грузии.",
-        "malaysiaDescription"   : "Краткая информация о Малайзии.",
-        "zanzibarDescription"   : "Краткая информация о Занзибаре.",
-        "montenegroDescription" : "Краткая информация о Черногории.",
-        "turkeyDescription"     : "Краткая информация о Турции.",
-        "antalyaDescription"    : "Краткая информация о Анталии."
+        "Description"           : "Цены относятся к дате размещения объявления. Чтобы узнать точную цену, свяжитесь с оператором."
     },
     "chooseUs"                  : {
         "infoSubTitle"          : "Почему мы?",
@@ -139,9 +126,7 @@
         "vietnam"               : "Вьетнам",
         "date"                  : "22 Июня 2024",
         "guests"                : "Гостей",
-        "baliDescription"       : "Краткая информация о Бали.",
-        "maldivDescription"     : "Краткая информация о Мальдивах.",
-        "vietnamDescription"    : "Краткая информация о Вьетнаме.",
+        "Description"           : "Цены относятся к дате размещения объявления. Чтобы узнать точную цену, свяжитесь с оператором.",
         "bookButton"            : "Забронировать"
     },
     "teamCards"                 : {

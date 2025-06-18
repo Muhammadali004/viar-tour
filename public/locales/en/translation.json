@@ -20,20 +20,7 @@
         "montenegro"            : "Montenegro",
         "turkey"                : "Turkey",
         "antalya"               : "Antalya",
-        "baliDescription"       : "A short text about this city is posted.",
-        "maldivDescription"     : "Brief information about Maldiv.",
-        "vietnamDescription"    : "Brief information about Vietnam.",
-        "egyptDescription"      : "Brief information about Egypt.",
-        "jordanDescription"     : "Brief information about Jordan.",
-        "dubaiDescription"      : "Brief information about Dubai.",
-        "shrilankaDescription"  : "Brief information about Shrilanka.",
-        "azerbaijanDescription" : "Brief information about Azerbaijan.",
-        "georgiaDescription"     : "Brief information about Georgia.",
-        "malaysiaDescription"   : "Brief information about Malaysia",
-        "zanzibarDescription"   : "Brief information about Zanzibar",
-        "montenegroDescription" : "Brief information about Montenegro",
-        "turkeyDescription"     : "Brief information about Turkey",
-        "antalyaDescription"    : "Brief information about Antalya"  
+        "Description"           : "The prices are relevant to the date they were announced. To know the exact price, please contact the operator."  
     },
     "chooseUs"                  : {
         "infoSubTitle"          : "Why Choose Us?",
@@ -139,9 +126,7 @@
         "vietnam"               : "Vietnam",
         "date"                  : "22 June 2024",
         "guests"                : "Guests",
-        "baliDescription"       : "A short text about this city is posted.",
-        "maldivDescription"     : "Brief information about Maldiv.",
-        "vietnamDescription"    : "Brief information about Vietnam.",
+        "Description"           : "The prices are relevant to the date they were announced. To know the exact price, please contact the operator.",
         "bookButton"            : "Book now"
     },
     "teamCards"                 : {
